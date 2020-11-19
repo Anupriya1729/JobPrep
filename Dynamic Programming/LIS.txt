@@ -1,0 +1,105 @@
+// Longest Increasing Subsequence (LIS)
+
+Method 1:
+Brute Force
+
+Idea: Consider all the subsequences, find the increasing ones, then find the one with maximum length
+Time Complexity: exponential
+Every element has 2 choices -> consider it, don't consider it
+i.e O(2^n)
+
+Method 2:
+Dynamic Programming
+
+Idea:
+Find the LIS ending with very element.
+Since, we are palying with 1 parameter only i.e. length
+So, it will be a 1-D DP
+
+	example:
+	{ 3, 4, 2, 8, 10 }
+	  0  1  2  3  4
+
+   dp[] : 1  1  1  1  1 --> each number is a subsequence itself
+	  1  2  1  1  1 --> add 1 to the current cell if this can extend the previous sequence otherwise do nothing
+	  1  2  1  1  1
+	  1  2  1  3  1
+	  1  2  1  3  4 --> maximum of all these values will give the result
+	
+TIME COMPLEXITY: O(n^2)
+SPACE COMPLEXITY: O(n)
+	
+#include <iostream>
+using namespace std;
+
+int LIS(vector<int> &input)
+{
+	int n= input.size();
+	if(n==0)
+	{
+		return 0;
+	}
+	int dp[n];
+	dp[0]=1;
+	for(int i=1;i<n;i++)
+	{
+		for(int j=0;j<i;j++)
+		{
+			if(input[i]>input[j])
+			{
+				dp[i]=max(dp[i],1+dp[j])
+			}
+		}
+	}
+	int length_of_lis=0;
+	for(int i=0;i<n;i++)
+	{
+		length_of_lis=max(length_of_lis,dp[i]);
+	}
+	
+	return length_of_lis;
+}
+
+
+METHOD 3:
+
+Using greedy+binary search concept
+Let's imagine our array as deck of cards.
+2 5 3 4
+in the above case if we choose 2 then 5 then we won't be able to choose the next numbers which won't be beneficial for us.
+If we choose 3 instead then we can add 4 on the top of it to create an increasing subsequence.
+
+Idea:
+iterate over the array
+if current element is greater than the element of top then push it to the array
+If it is not then find then replace the current top with the element greater than it.
+this can be done by finding the index of such an element using binary search or if allowed then you can use "lower_bound" (STL)
+
+TIME COMPLEXITY: O(n log n)
+SPACE: O(n)
+
+int LIS(vector<int> &input)
+{
+	int n= input.size();
+	if(n==0)
+	{
+		return 0;
+	}
+	vector<int> lis;
+	lis.push_back(input[0]);
+	for(int i=1;i<n;i++)
+	{
+		if(input.back()<input[i])
+		{
+			lis.push_back(input[i]);
+		}
+		else
+		{
+			int ind= lower_bound(lis.begin(),lis.end(),input[i])-lis.begin();
+			lis[ind]=n input[i];
+		}
+	}
+	
+	return lis.size();
+}
+
