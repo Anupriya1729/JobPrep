@@ -1,5 +1,5 @@
 https://leetcode.com/problems/min-cost-climbing-stairs/discuss/476388/4-ways-or-Step-by-step-from-Recursion-greater-top-down-DP-greater-bottom-up-DP-greater-fine-tuning
-
+<pre>
 Questions-
 1. Fibonacci
 2. Divisor Game
@@ -56,3 +56,4 @@ Questions-
 20. Minimum sum path
 	https://www.geeksforgeeks.org/min-cost-path-dp-6/
 	https://leetcode.com/problems/minimum-path-sum/discuss/23457/C%2B%2B-DP
+</pre>
