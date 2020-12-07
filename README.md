@@ -7,7 +7,7 @@ Best Youtube Channels:
 1. Code NCode
     <a href="https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ">https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ</a>
     
-2.Tech Dose
+2. TECH DOSE
     <a href="https://www.youtube.com/channel/UCnxhETjJtTPs37hOZ7vQ88g"> https://www.youtube.com/channel/UCnxhETjJtTPs37hOZ7vQ88g</a>
     
 3. take U forward
