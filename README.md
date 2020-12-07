@@ -15,5 +15,8 @@ Best Youtube Channels:
 
 4. Rachit Jain
     <a href="https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ">https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ</a>
-    
+
+Best Blog for DP:
+<a href="https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns">https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns </a>
+   
 </pre>
