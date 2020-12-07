@@ -8,7 +8,7 @@ Best Youtube Channels:
     <a href="https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ">https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ</a>
     
 2. TECH DOSE
-    <a href="https://www.youtube.com/channel/UCnxhETjJtTPs37hOZ7vQ88g"> https://www.youtube.com/channel/UCnxhETjJtTPs37hOZ7vQ88g</a>
+    <a href="https://www.youtube.com/channel/UCnxhETjJtTPs37hOZ7vQ88g">https://www.youtube.com/channel/UCnxhETjJtTPs37hOZ7vQ88g</a>
     
 3. take U forward
     <a href="https://www.youtube.com/results?search_query=take+u+forward">https://www.youtube.com/results?search_query=take+u+forward</a>
