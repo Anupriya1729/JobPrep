@@ -18,4 +18,7 @@ Best Youtube Channels:
 Best Blog for DP:
 <a href="https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns">https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns </a>
    
+Backtracking:
+<a href="https://leetcode.com/discuss/interview-question/1098081/Famous-Backtracking-Problems">https://leetcode.com/discuss/interview-question/1098081/Famous-Backtracking-Problems </a>
+
 </pre>
