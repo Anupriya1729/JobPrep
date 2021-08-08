@@ -1,6 +1,7 @@
 <pre>This repo contains my personal suggestions on how someone can prepare for placements.
 The <b><a href="https://github.com/Anupriya1729/JobPrep/blob/main/1.%20Placement%20Guide.pdf">Placement Guide</a></b> contains all the important things (according to me) that a student should know about placements.
-
+I personally struggled a lot when I started. I faced a lot of problems in figuring out what to do and how the placement process looks like.
+I have prepared this pdf so that the upcoming batches do not face such problems.
 
 Best Youtube Channels:
 1. take U forward
