@@ -1,4 +1,4 @@
-<pre>This repo contains solutions to popular coding interview questions and useful study material.
+<pre>This repo contains my personal suggestions to how someone can prepare for placements.
 
 ✅ SDE SHEET: <a href="https://bit.ly/takeUforward_SDE">https://bit.ly/takeUforward_SDE</a>
 
