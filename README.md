@@ -1,5 +1,5 @@
 <pre>This repo contains my personal suggestions to how someone can prepare for placements.
-The <b>Placement Guide</> contains all the important things (according to me) that a student should know about placements.
+The <b>Placement Guide</b> contains all the important things (according to me) that a student should know about placements.
 
 ✅ SDE SHEET: <a href="https://bit.ly/takeUforward_SDE">https://bit.ly/takeUforward_SDE</a>
 
