@@ -20,6 +20,9 @@ Best Youtube Channels:
 
 ✅ SDE SHEET (to be solved before interviews): <a href="https://bit.ly/takeUforward_SDE">https://bit.ly/takeUforward_SDE</a>
 
+To know about job opportunities:
+<a href="https://www.youtube.com/user/ARSHG1998">https://www.youtube.com/user/ARSHG1998</a>
+
 Best Blog for DP:
 <a href="https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns">https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns </a>
    
