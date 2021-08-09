@@ -2,7 +2,7 @@
 The <b><a href="https://github.com/Anupriya1729/JobPrep/blob/main/1.%20Placement%20Guide.pdf">Placement Guide</a></b> contains all the important things (according to me) 
 that a student should know about placements.
 <b>To access the links in the pdf</b>
-Open the <b><a href="https://github.com/Anupriya1729/JobPrep/blob/main/1.%20Placement%20Guide.pdf">Placement Guide</a></b> file on laptop -> click on download -> open it in your laptop.
+Open the <b><a href="https://github.com/Anupriya1729/JobPrep/blob/main/1.%20Placement%20Guide.pdf">Placement Guide</a></b> file on laptop -> click on download -> open it on your laptop.
 <b>I'll keep updating the pdf according to the latest information so keep an eye on the update date mentioned on 1st page of pdf</b>
 
 I personally struggled a lot when I started. I faced a lot of problems in figuring out what to do 
