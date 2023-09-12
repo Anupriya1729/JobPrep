@@ -31,9 +31,10 @@ To know about job opportunities:
 Best Blog for DP:
 <a href="https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns">https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns </a>
 
-For more info you can book a 1:1 mentorship session with me for career guidance:
-<a href="https://unstop.com/mentor/anupriya?ref=M1OJIz6">https://unstop.com/mentor/anupriya?ref=M1OJIz6</a>
 Backtracking:
 <a href="https://leetcode.com/discuss/interview-question/1098081/Famous-Backtracking-Problems">https://leetcode.com/discuss/interview-question/1098081/Famous-Backtracking-Problems </a>
 
+
+<b><h3>You can also book a 1:1 mentorship session with me for more guidance:</h3>
+<a href="https://unstop.com/mentor/anupriya?ref=M1OJIz6">https://unstop.com/mentor/anupriya?ref=M1OJIz6</a>
 </pre>
